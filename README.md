@@ -1,16 +1,1 @@
-# tic_tac_toe
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Introducing **"Tic Tac Toe Challenge"** – the classic game reimagined for the digital age! Immerse yourself in a sleek and intuitive design as you navigate through single and multiplayer modes. Choose from various themes and board sizes to personalize your experience. Face off against a smart AI opponent that adapts to your skills or challenge friends in real-time multiplayer. Track your progress with achievements and aim for the top spot on global leaderboards. With offline play and educational benefits, Tic Tac Toe Challenge offers hours of strategic fun for players of all levels.
